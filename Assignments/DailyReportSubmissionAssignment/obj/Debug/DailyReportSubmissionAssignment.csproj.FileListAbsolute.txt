@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\DailyReportSubmissionAssignment\bin\Debug\DailyReportSubmissionAssignment.exe.config
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\DailyReportSubmissionAssignment\bin\Debug\DailyReportSubmissionAssignment.exe
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\DailyReportSubmissionAssignment\bin\Debug\DailyReportSubmissionAssignment.pdb
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.exe
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.pdb

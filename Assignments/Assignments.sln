@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyReportSubmissionAssignment", "..\DailyReportSubmissionAssignment\DailyReportSubmissionAssignment.csproj", "{FD80524D-CEAA-4823-B759-A384BA719E16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyReportSubmissionAssignment", "DailyReportSubmissionAssignment\DailyReportSubmissionAssignment.csproj", "{CE974C81-3029-431B-9135-E2CEC4D96E06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FD80524D-CEAA-4823-B759-A384BA719E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FD80524D-CEAA-4823-B759-A384BA719E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FD80524D-CEAA-4823-B759-A384BA719E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FD80524D-CEAA-4823-B759-A384BA719E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE974C81-3029-431B-9135-E2CEC4D96E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE974C81-3029-431B-9135-E2CEC4D96E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE974C81-3029-431B-9135-E2CEC4D96E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE974C81-3029-431B-9135-E2CEC4D96E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C2CB0A43-36C0-4F23-94E5-8B6DDFFEAEDF}
+		SolutionGuid = {0E567EA3-66A4-49A0-9E5A-A46DBC653994}
 	EndGlobalSection
 EndGlobal
