@@ -1,6 +1,0 @@
-C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\BranchingSubmissionAssignment\bin\Debug\BranchingSubmissionAssignment.exe.config
-C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\BranchingSubmissionAssignment\bin\Debug\BranchingSubmissionAssignment.exe
-C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\BranchingSubmissionAssignment\bin\Debug\BranchingSubmissionAssignment.pdb
-C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\BranchingSubmissionAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.exe
-C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.pdb
