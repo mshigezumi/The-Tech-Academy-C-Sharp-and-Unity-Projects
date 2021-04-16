@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ArraysAssignment\bin\Debug\ArraysAssignment.exe.config
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ArraysAssignment\bin\Debug\ArraysAssignment.exe
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ArraysAssignment\bin\Debug\ArraysAssignment.pdb
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ArraysAssignment\obj\Debug\ArraysAssignment.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ArraysAssignment\obj\Debug\ArraysAssignment.exe
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ArraysAssignment\obj\Debug\ArraysAssignment.pdb

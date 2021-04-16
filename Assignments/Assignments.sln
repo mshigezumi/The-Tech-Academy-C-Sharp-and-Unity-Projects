@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingSubmissionAssignme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSubmissionAssignment", "ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment.csproj", "{1ADDD5A2-9262-4658-ACF6-FE382DF0E235}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAssignment", "ArraysAssignment\ArraysAssignment.csproj", "{2E2F3821-59A7-48F0-BF8F-949E48E5E22A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1ADDD5A2-9262-4658-ACF6-FE382DF0E235}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ADDD5A2-9262-4658-ACF6-FE382DF0E235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ADDD5A2-9262-4658-ACF6-FE382DF0E235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2F3821-59A7-48F0-BF8F-949E48E5E22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2F3821-59A7-48F0-BF8F-949E48E5E22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2F3821-59A7-48F0-BF8F-949E48E5E22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2F3821-59A7-48F0-BF8F-949E48E5E22A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
