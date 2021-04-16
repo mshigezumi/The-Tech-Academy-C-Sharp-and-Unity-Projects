@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathAndComparisonOperatorsA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanLogicAssignment", "BooleanLogicAssignment\BooleanLogicAssignment.csproj", "{68344CDB-515F-463C-A959-70B889771DCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingSubmissionAssignment", "BranchingSubmissionAssignment\BranchingSubmissionAssignment.csproj", "{2EE9F0DE-689C-4658-A769-E0CA06558E97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{68344CDB-515F-463C-A959-70B889771DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68344CDB-515F-463C-A959-70B889771DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68344CDB-515F-463C-A959-70B889771DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE9F0DE-689C-4658-A769-E0CA06558E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE9F0DE-689C-4658-A769-E0CA06558E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE9F0DE-689C-4658-A769-E0CA06558E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE9F0DE-689C-4658-A769-E0CA06558E97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
