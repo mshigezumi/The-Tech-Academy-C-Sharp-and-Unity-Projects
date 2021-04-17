@@ -1,0 +1,6 @@
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
