@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ConsoleAppAssignment2\bin\Debug\ConsoleAppAssignment2.exe.config
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ConsoleAppAssignment2\bin\Debug\ConsoleAppAssignment2.exe
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ConsoleAppAssignment2\bin\Debug\ConsoleAppAssignment2.pdb
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.exe
+C:\Users\Michael\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Assignments\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.pdb

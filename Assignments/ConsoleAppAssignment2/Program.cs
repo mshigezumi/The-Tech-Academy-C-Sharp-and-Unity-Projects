@@ -10,20 +10,40 @@ namespace ConsoleAppAssignment2
     {
         static void Main(string[] args)
         {
-            string[] PhoneticAlphabet = { "Alfa", "Bravo", "Charlie", "Delta", "Echo", "Foxtrot", "Golf", "Hotel", "India", "Juliett" };
-            Console.WriteLine("Input text to be added to each string");
-            string add = Console.ReadLine();
-            int i = 0;
-            foreach (string letter in PhoneticAlphabet)
+            List<string> listPA = new List<string>();
+            listPA.Add("Alfa");
+            listPA.Add("Bravo");
+            listPA.Add("Charlie");
+            listPA.Add("Delta");
+            listPA.Add("Echo");
+            listPA.Add("Foxtrot");
+            listPA.Add("Golf");
+            listPA.Add("Hotel");
+            listPA.Add("India");
+            listPA.Add("Juliett");
+
+            listPA.Add("Alfa");
+            listPA.Add("Bravo");
+            listPA.Add("Charlie");
+            listPA.Add("Zulu");
+
+            List<string> appeared = new List<string>();
+            foreach (string item in listPA)
             {
-                PhoneticAlphabet[i] = letter + add;
-                i++;
+                if (appeared.Contains(item))
+                {
+                    Console.WriteLine(item + " has already appeared in the list");
+                }
+                else
+                {
+                    Console.WriteLine(item + " has not already appeared in the list");
+                    appeared.Add(item);
+                }
             }
-            foreach (string letter in PhoneticAlphabet)
-            {
-                Console.WriteLine(letter);
-            }
-            
+
+            Console.Read();
+
+
         }
     }
 }
