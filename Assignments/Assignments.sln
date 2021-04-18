@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAssignment", "ClassAss
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsAndObjectsAssignment", "MethodsAndObjectsAssignment\MethodsAndObjectsAssignment.csproj", "{61369C47-6DA3-4560-BDDB-363421FF7B1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassAssignment", "AbstractClassAssignment\AbstractClassAssignment.csproj", "{04290F00-8C4B-4A80-B381-F0408FA129FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{61369C47-6DA3-4560-BDDB-363421FF7B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61369C47-6DA3-4560-BDDB-363421FF7B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61369C47-6DA3-4560-BDDB-363421FF7B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04290F00-8C4B-4A80-B381-F0408FA129FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04290F00-8C4B-4A80-B381-F0408FA129FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04290F00-8C4B-4A80-B381-F0408FA129FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04290F00-8C4B-4A80-B381-F0408FA129FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
