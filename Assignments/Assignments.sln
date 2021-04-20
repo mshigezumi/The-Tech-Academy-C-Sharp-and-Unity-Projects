@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametersAssignment", "Par
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingEnumsAssignment", "ParsingEnumsAssignment\ParsingEnumsAssignment.csproj", "{D1B8BC06-4177-4D4D-B4A0-640F3A505BCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaAssignment", "LambdaAssignment\LambdaAssignment.csproj", "{FC403707-2E36-4611-A776-0AC3C254F397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{D1B8BC06-4177-4D4D-B4A0-640F3A505BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1B8BC06-4177-4D4D-B4A0-640F3A505BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1B8BC06-4177-4D4D-B4A0-640F3A505BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC403707-2E36-4611-A776-0AC3C254F397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC403707-2E36-4611-A776-0AC3C254F397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC403707-2E36-4611-A776-0AC3C254F397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC403707-2E36-4611-A776-0AC3C254F397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
